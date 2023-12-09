@@ -66,26 +66,3 @@ The dataset contains over a thousand reviews about an application that is openly
 5. **Engine.py**: The main file to run the entire project, which trains the model and saves it in the output folder.
 
 ---
-
-## Project Takeaways
-
-1. Understanding the problem statement and the approach.
-2. Data exploration and visualization.
-3. Understanding tokenization.
-4. Performing tokenization using word_tokenization from the NLTK library.
-5. Understanding stopwords.
-6. How to remove stopwords.
-7. Removing punctuation.
-8. Understanding stemming.
-9. Stemming using Porter Stemmer.
-10. Stemming using Lancaster Stemmer.
-11. Distributions of words in each document.
-12. Creating bag of words with binary.
-13. Creating bag of words without binary.
-14. Creating bag of words with N-grams.
-15. Understanding TF-IDF.
-16. How to find TF-IDF score.
-17. Building a Logistic Regression model.
-18. Making predictions on new reviews.
-
----
